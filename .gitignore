@@ -13,3 +13,7 @@ target/
 .idea/
 *.iml
 /bin
+source.tar.gz
+source.zip
+src/main/resources/Profils/
+src/main/resources/scores.txt
